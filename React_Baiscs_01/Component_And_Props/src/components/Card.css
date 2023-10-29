@@ -1,0 +1,8 @@
+.card{
+    padding: 20px;
+    padding-left: 30px;
+    min-width: 300px; 
+    text-align: center;
+    margin-left: 10px;;
+     background: rgb(194, 225, 237);
+}
